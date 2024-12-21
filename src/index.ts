@@ -1,0 +1,1 @@
+console.log("Hello world ts node abc")
